@@ -2,6 +2,9 @@
 
 Save Flappy Bird is a modified version of the famous Flappy Bird game. In this game you don't control the bird directly by tapping the screen. But your task is to move the pipes such that the bird can fly between them. If necessary the bird bounces the bottom pipe to jump and fly further. The goal of the game is to fly as far as possible. In order to make the game funnier and harder, there are other birds in the game. Some of them are larger than your, others are smaller. If you collide with a larger bird it will eat part of your body so you will become smaller and smaller until they eat all your body and you die. Otherwise if you collide a smaller bird then you eat it and you will become bigger. But if you are bigger then it's harder for you to jump so the flying becomes more challenging. For you it's necessary to sometimes eat a smaller bird because as the time flows the game speed increases. Therefore, the game becomes pretty challenging. To slow the game speed down, you can eat a larger bird. That's the reason for the name "Save Flappy Bird" your task is to escape all your enemies and save flappy bird.
 
+![Save Flappy Bird Demo](demo/demo.gif)
+
+
 ## Getting Started
 
 These instructions will guide you through the process of installation and running of the application.
